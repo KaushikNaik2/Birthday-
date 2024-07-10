@@ -8,3 +8,15 @@ body {
   align-items: center;
   min-height: 100vh;
 }
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#sound-player-container {
+  margin-bottom: 20px;
+}
+
+
